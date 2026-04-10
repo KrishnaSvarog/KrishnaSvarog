@@ -44,17 +44,18 @@ Multi-server setup across US and EU. VLESS+Reality chain proxy, Hysteria2 fallba
 ## Background
 
 **Education**
-- Financial University under the Government of RF — Jurisprudence
-- RANEPA — Crisis Management, Licensed Insolvency Practitioner
-- Institute of Professional Accountants — IFRS/RAS Certification
-- Volgograd State Technical University — Engineer-Economist
+- Volgograd State Technical University — Engineer-Economist (1997–2002)
+- Institute of Professional Accountants of Russia — IFRS/RAS Certification (2003–2006)
+- RANEPA — Crisis Management, Licensed Insolvency Practitioner (2012–2013)
+- Financial University under the Government of RF — Jurisprudence (2012–2015)
 - English — C1
 
 **Professional path**
-- Attorney-at-law — corporate bankruptcy, tax crime defense, critical infrastructure compliance (187-FZ)
-- Financial director, international commodities trading
-- Internal auditor, LUKOIL
-- Audit and consulting, real sector
+- Rosmashkom, FiKON — engineer-economist, external audit (2002–2005)
+- LUKOIL-Nizhnevolzhskneft — internal audit (2005–2006)
+- WJ Grain — chief accountant, financial director (2006–2008)
+- Consulting — crisis management, business advisory (2008–2016)
+- Attorney-at-law — bankruptcy, subsidiary liability, tax crime defense, critical infrastructure compliance (2016–present)
 
 ---
 
@@ -78,6 +79,7 @@ These projects are steps toward that.
 ---
 
 **Telegram:** [@afishchuk](https://t.me/afishchuk)  
-**Email:** krishnasvarog@gmail.com
+**Email:** krishnasvarog@gmail.com  
+**Institute:** [isslab.ru](https://isslab.ru)
 
-<sub>Verifiable through Russian state registries (ЕГРЮЛ, реестр адвокатов), Pravorub legal portal, and project codebases.</sub>
+<sub>Verifiable: [ЕГРЮЛ](https://www.rusprofile.ru/egrul?ogrn=1267700083617) · [Pravorub](https://fishchuk.pravorub.ru) (259 publications) · [Zakon.ru](https://zakon.ru/Profile/User/fishchuk) · [Regforum](https://regforum.ru/members/77871/) · [Klerk.ru](https://www.klerk.ru/user/aafishchuk/)</sub>
